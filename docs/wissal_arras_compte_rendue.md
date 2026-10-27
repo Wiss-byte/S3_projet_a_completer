@@ -56,4 +56,4 @@ Ce critère parle du rappel, donc il est adapté à la classification des pannes
 
 ## Ce qui reste flou
 
-Les résultats ne portent que sur 68 jours de test. Le nombre de repas peut changer avec des événements inhabituels, un nouveau menu ou une nouvelle organisation. Il faudrait tester le modèle sur plus de jours et avec de nouvelles années.
+Les résultats ne portent que sur 68 jours de test. Le nombre de repas peut changer avec des événements inhabituels, un nouveau menu ou une nouvelle organisation. Il faudrait tester le modèle sur plus de jours et avec de nouvelles années. 
